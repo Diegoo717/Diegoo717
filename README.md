@@ -4,7 +4,6 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer+from+Mexico;Mobile%2FWeb%2FDesktop+Developer;JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
-
 ###
 <h2 align="left">About me</h2>
 
