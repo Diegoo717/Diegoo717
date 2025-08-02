@@ -1,8 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! What's up?
 ###
 <p align="left">My name is Diego and I'm a</p>
+###  
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer+from+Mexico+%F0%9F%87%B2%F0%9F%87%BD;Building+web%2Fmobile%2Fdesktop+apps+💻;JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+learning+new+technologies!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer+from+Mexico+%F0%9F%87%B2%F0%9F%87%BD;Building+web%2Fmobile%2Fdesktop+apps+💻;JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+learning+new+technologies!+🚀" alt="Typing SVG" />
 </div>
 <h2 align="left">About me</h2>
 
