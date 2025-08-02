@@ -1,7 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! What's up?
 ###
-<p align="left">My name is Diego and I'm a</p>
-###  
+<p align="left">My name is Diego and I'm a</p> 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer+from+Mexico;Mobile%2FWeb%2FDesktop+Developer;JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
@@ -20,6 +19,14 @@
 </p>
 
 ###
+
+<h2 align="left">🏆 My Certifications</h2>
+
+###
+
+<div align="left">
+  🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a>
+</div>
 
 <h2 align="left">I code with</h2>
 
@@ -57,12 +64,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
 
-<h2 align="left">🏆 My Certifications</h2>
-
-###
-
-<div align="left">
-  🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a>
-</div>
