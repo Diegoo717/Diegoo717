@@ -1,12 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! What's up?
-
+###
+<p align="left">My name is Diego and I'm a</p>
+###  
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer+from+Mexico;Mobile%2FWeb%2FDesktop+Developer;JavaScript+Lover+%E2%9D%A4%EF%B8%8F;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
-
-###
-
-<p align="left">My name is Diego and I'm a Full Stack Developer from Mexico.</p>
 
 ###
 
@@ -54,6 +52,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
@@ -64,23 +64,5 @@
 ###
 
 <div align="left">
-  <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-Responsive%20Web%20Design-27AE60?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certification" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
-  <span style="margin-left: 10px; color: #666;">Responsive Web Design - FreeCodeCamp (2024)</span>
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoo717&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegoo717&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a>
 </div>
