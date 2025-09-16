@@ -23,7 +23,7 @@
 
 <div align="left">
   🔗 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1058761" target="_blank">Scrum Fundamentals Certified (SFC) - SCRUMstudy</a><br>
-  🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a>
+  🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a><br>
   🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/javascript-algorithms-and-data-structures-v8" target="_blank">JavaScript Algorithms and Data Structures - FreeCodeCamp</a>
 </div>
 
