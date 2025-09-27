@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://supabase.com/_next/static/media/supabase-logo-logomark.f5874695.svg" height="40" alt="supabase logo" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="supabase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
