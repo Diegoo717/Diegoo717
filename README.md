@@ -26,6 +26,8 @@
   🔗 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1058761" target="_blank">Scrum Fundamentals Certified (SFC) - SCRUMstudy</a><br>
   🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/responsive-web-design" target="_blank">Responsive Web Design - FreeCodeCamp</a><br>
   🔗 <a href="https://www.freecodecamp.org/certification/diegoo717/javascript-algorithms-and-data-structures-v8" target="_blank">JavaScript Algorithms and Data Structures - FreeCodeCamp</a>
+  🔗 <a href="https://www.udemy.com/certificate/UC-31ef7493-3b61-417e-9b72-ab8b7281d3e7/" target="_blank">Nest desarrollo backend escalable con Node - Udemy</a>
+  🔗 <a href="https://www.udemy.com/certificate/UC-f1b3955f-f74a-4e11-9b19-1a6071ea1389/" target="_blank">React: De cero a experto - Edición 2025 - Udemy</a>
 </div>
 
 <h2 align="left">I code with</h2>
