@@ -9,9 +9,9 @@
 ###
 
 <p align="left">
-✨ Developing Mobile, Web & Desktop apps since 2021<br>
+✨ Developing Mobile, Web & Desktop apps since 2022<br>
 📚 Currently, I specialize in Node.js, Express & NestJS for backend development<br>
-🛠 Proficient in frontend frameworks and scalable backend architectures<br>
+🛠 Proficient in frontend frameworks and scalable architectures<br>
 🎯 Goals: Become the best developer of my generation<br>
 🎲 Fun fact: TypeScript makes JavaScript even more awesome
 </p> 
@@ -74,5 +74,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
+<h2 align="left">📫 Contact Me</h2>
 
+###
 
+<div align="center">
+  <a href="www.linkedin.com/in/diego-magana-dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:soydiegoo71@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="tel:+524451059192">
+    <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="phone logo"  />
+  </a>
+</div>
+
+###
